@@ -1,0 +1,46 @@
+body{
+	text-align: center;
+	width: 800;
+	background: #ffffaa;
+	font-family: cursive;
+	margin: 0 auto;
+}
+#main{
+	text-align: center;
+}
+h1, h2{
+	text-decoration: underline;
+	padding: 0 0 0 0;
+}
+a{
+	background: #00ff00;
+	color: #005500;
+	text-decoration: none;
+	padding: 5px;
+	border-radius: 5px;
+	border-style: solid;
+}
+p a{
+	border-radius: 0;
+	border-style: solid;
+	border-width: 1;
+	padding: 2;
+	background: #cca;
+	color: #005;
+}
+#main{
+	width: 800;
+	margin: 0 auto;
+}
+#resume{
+	width: 800;
+	margin-left: auto;
+	margin-right: auto;
+	align: left;
+}
+.center{
+	text-align: center;
+}
+.left{
+	text-align: left;
+}
